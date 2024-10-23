@@ -28,4 +28,4 @@ The project is built using **Rest Assured** for API automation and integrates wi
    ```bash
    mvn clean test
    ```
-4. After execution, reports will be available in the `reports` folder.
+4. After execution, reports will be available.
